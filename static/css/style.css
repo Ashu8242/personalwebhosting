@@ -16,6 +16,10 @@ body{
 background-image: url("https://www.transparenttextures.com/patterns/ag-square.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
+
+.linkP{
+    color: #fff;
+}
 .max-width{
     max-width: 1650px;
     padding: 0 80px;
